@@ -61,4 +61,4 @@ You can run the app by running the following in the terminal:
 ```bash
 streamlit run chat.py
 ```
-Took inspiration from @Marlene
+Took inspiration from [@marlenezw](https://github.com/marlenezw)
